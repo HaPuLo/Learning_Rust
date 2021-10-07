@@ -1,0 +1,1 @@
+C:\Users\hoangtra\OneDrive\ -\ Intel\ Corporation\data\1_SelfStudy\BlockchainFundamental\Rustprogram\tut_28trait\target\debug\tut_28trait.exe: C:\Users\hoangtra\OneDrive\ -\ Intel\ Corporation\data\1_SelfStudy\BlockchainFundamental\Rustprogram\tut_28trait\src\main.rs
