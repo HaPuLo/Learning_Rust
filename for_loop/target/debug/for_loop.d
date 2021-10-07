@@ -1,0 +1,1 @@
+C:\Users\hoangtra\OneDrive\ -\ Intel\ Corporation\data\1_SelfStudy\BlockchainFundamental\Rustprogram\for_loop\target\debug\for_loop.exe: C:\Users\hoangtra\OneDrive\ -\ Intel\ Corporation\data\1_SelfStudy\BlockchainFundamental\Rustprogram\for_loop\src\main.rs
