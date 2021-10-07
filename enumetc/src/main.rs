@@ -1,3 +1,4 @@
+//Create conflic code
 enum Direction {
     UP,
     DOWN,
