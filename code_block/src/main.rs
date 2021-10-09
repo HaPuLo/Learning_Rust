@@ -6,6 +6,7 @@ fn main() {
 
     {
         //code block, common use and priority print the variable inside of code block than outside the code block
+        //this one will immutable
         x = 15;
 
         //this line will shadowing x variable the print the value out side of code block
