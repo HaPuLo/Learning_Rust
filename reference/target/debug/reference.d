@@ -1,0 +1,1 @@
+C:\Users\hoangtra\OneDrive\ -\ Intel\ Corporation\data\1_SelfStudy\BlockchainFundamental\Rustprogram\reference\target\debug\reference.exe: C:\Users\hoangtra\OneDrive\ -\ Intel\ Corporation\data\1_SelfStudy\BlockchainFundamental\Rustprogram\reference\src\main.rs
