@@ -1,0 +1,1 @@
+C:\Users\hoangtra\OneDrive\ -\ Intel\ Corporation\data\1_SelfStudy\BlockchainFundamental\Rustprogram\Structs\target\debug\Structs.exe: C:\Users\hoangtra\OneDrive\ -\ Intel\ Corporation\data\1_SelfStudy\BlockchainFundamental\Rustprogram\Structs\src\main.rs
