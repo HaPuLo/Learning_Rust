@@ -1,0 +1,1 @@
+C:\Users\hoangtra\OneDrive\ -\ Intel\ Corporation\data\1_SelfStudy\BlockchainFundamental\Rustprogram\tuple_struct\target\debug\tuble_struct.exe: C:\Users\hoangtra\OneDrive\ -\ Intel\ Corporation\data\1_SelfStudy\BlockchainFundamental\Rustprogram\tuple_struct\src\main.rs
